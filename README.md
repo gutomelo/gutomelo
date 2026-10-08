@@ -1,6 +1,6 @@
 # Olá, eu sou Guto Melo 👋
 
-Sou Engenheiro de Software com foco em desenvolvimento backend, arquitetura de sistemas e construção de aplicações escaláveis e bem estruturadas.
+Sou Engenheiro de Software com foco em desenvolvimento Full Stack, arquitetura de sistemas e construção de aplicações escaláveis e bem estruturadas.
 
 ## 🚀 Tecnologias
 
