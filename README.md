@@ -30,61 +30,11 @@ Também utilizo IA aplicada ao desenvolvimento de software, trabalhando com Cont
 
 ## 📌 Projetos em destaque
 
-### 🛒 E-Commerce Microservices
-
-Projeto de e-commerce baseado em microsserviços, desenvolvido para estudar conceitos de sistemas distribuídos e arquiteturas utilizadas em aplicações modernas.
-
-Principais conceitos:
-
-- Java e Spring Boot
-- Microsserviços
-- Event-Driven Architecture
-- Saga por Coreografia
-- Transactional Outbox
-- Idempotência
-- AWS SNS/SQS
-- PostgreSQL
-- Docker
-- Terraform
-- Observabilidade
-
-https://github.com/gutomelo/ecommerce-microservices
-
-### 🏦 Bank Project
-
-Plataforma bancária desenvolvida como projeto de estudo avançado de Engenharia de Software.
-
-Principais conceitos:
-
-- Java 21
-- Spring Boot
-- Angular
-- Kafka
-- PostgreSQL
-- DDD
-- Microsserviços
-- Event-Driven Architecture
-- Observabilidade
-- Context Engineering
-- Desenvolvimento assistido por IA
-
-https://github.com/gutomelo/bank-project
-
-### 🧩 Mini E-Commerce
-
-Projeto experimental utilizando diferentes tecnologias em uma arquitetura distribuída.
-
-Stack principal:
-
-- Spring Boot
-- NestJS
-- Go
-- Angular
-- Next.js
-- PostgreSQL
-- Redis
-
-https://github.com/gutomelo/mini-e-commerce
+| Projeto | Stack principal | Arquitetura e conceitos | Repositório |
+|---|---|---|---|
+| 🛒 E-Commerce Microservices | Java, Spring Boot, PostgreSQL, Docker, AWS SNS/SQS, Terraform | Microsserviços, Event-Driven Architecture, Saga por Coreografia, Transactional Outbox, Idempotência, Resiliência e Observabilidade | [Acessar](https://github.com/gutomelo/ecommerce-microservices) |
+| 🏦 Bank Project | Java 21, Spring Boot, Angular, Kafka, PostgreSQL, Docker | Microsserviços, DDD, Event-Driven Architecture, API Gateway, Observabilidade, Context Engineering e desenvolvimento assistido por IA | [Acessar](https://github.com/gutomelo/bank-project) |
+| 🧩 Mini E-Commerce | Spring Boot, NestJS, Go, Angular, Next.js, PostgreSQL, Redis | Arquitetura distribuída, múltiplas stacks, integração entre serviços e comunicação assíncrona | [Acessar](https://github.com/gutomelo/mini-e-commerce) |
 
 ## 🤖 IA + Engenharia de Software
 
