@@ -30,12 +30,12 @@ Também utilizo IA aplicada ao desenvolvimento de software, trabalhando com Cont
 
 ## 📌 Projetos em destaque
 
-| Projeto | Stack principal | Arquitetura e conceitos | Repositório |
-|---|---|---|---|
-| 🛒 E-Commerce Microservices | Java, Spring Boot, PostgreSQL, Docker, AWS SNS/SQS, Terraform | Microsserviços, Event-Driven Architecture, Saga por Coreografia, Transactional Outbox, Idempotência, Resiliência e Observabilidade | [Acessar](https://github.com/gutomelo/ecommerce-microservices) |
-| 🏦 Bank Project | Java 21, Spring Boot, Angular, Kafka, PostgreSQL, Docker | Microsserviços, DDD, Event-Driven Architecture, API Gateway, Observabilidade, Context Engineering e desenvolvimento assistido por IA | [Acessar](https://github.com/gutomelo/bank-project) |
-| 📦 OrderFlow | Python, Django, Vue.js, TypeScript, PostgreSQL, RabbitMQ, Celery | Monólito Modular, Transactional Outbox, Idempotência, Multi-tenant, concorrência, RBAC e Observabilidade | [Acessar](https://github.com/gutomelo/order-flow) |
-| 🧩 Mini E-Commerce | Spring Boot, NestJS, Go, Angular, Next.js, PostgreSQL, Redis | Arquitetura distribuída, múltiplas stacks, integração entre serviços e comunicação assíncrona | [Acessar](https://github.com/gutomelo/mini-e-commerce) |
+| Projeto | O que é | Stack principal | Arquitetura e conceitos | Repositório |
+|---|---|---|---|---|
+| 🛒 E-Commerce Microservices | Plataforma de e-commerce distribuída, criada para demonstrar uma arquitetura de microsserviços com fluxo completo de pedidos, estoque, pagamento e notificações. | Java 21, Spring Boot, Spring Cloud, PostgreSQL, Docker, AWS SNS/SQS, Terraform | Microsserviços, DDD, Clean/Hexagonal Architecture, Event-Driven Architecture, Saga por Coreografia, Transactional Outbox, Idempotência, Resiliência e Observabilidade | [Acessar](https://github.com/gutomelo/ecommerce-microservices) |
+| 🏦 Bank Project | Plataforma bancária digital simulada, com contas, transferências, ledger, notificações e auditoria, criada como projeto avançado de Engenharia de Software. | Java 21, Spring Boot 4, Angular 22, Kafka, PostgreSQL, Docker | Microsserviços, DDD, Event-Driven Architecture, Transactional Outbox, Idempotência, Concorrência, API Gateway, Observabilidade e Context Engineering | [Acessar](https://github.com/gutomelo/bank-project) |
+| 📦 OrderFlow | Plataforma B2B de gestão de pedidos e estoque, cobrindo desde a criação do pedido até pagamento, expedição, entrega e auditoria. | Python, Django, Vue.js, TypeScript, PostgreSQL, RabbitMQ, Celery | Monólito Modular, Transactional Outbox, Idempotência, Multi-tenant, Concorrência, RBAC, Máquina de Estados e Observabilidade | [Acessar](https://github.com/gutomelo/order-flow) |
+| 🧩 Mini E-Commerce | E-commerce Full Stack em monorepo, criado para demonstrar a integração de diferentes tecnologias em uma única arquitetura moderna. | Next.js, Angular, NestJS, Go, Spring Boot, PostgreSQL, Redis | Clean Architecture, API Gateway/BFF, comunicação orientada a eventos, cache distribuído, integração entre serviços e Context Engineering | [Acessar](https://github.com/gutomelo/mini-e-commerce) |
 
 ## 🤖 IA + Engenharia de Software
 
