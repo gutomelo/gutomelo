@@ -34,6 +34,7 @@ Também utilizo IA aplicada ao desenvolvimento de software, trabalhando com Cont
 |---|---|---|---|
 | 🛒 E-Commerce Microservices | Java, Spring Boot, PostgreSQL, Docker, AWS SNS/SQS, Terraform | Microsserviços, Event-Driven Architecture, Saga por Coreografia, Transactional Outbox, Idempotência, Resiliência e Observabilidade | [Acessar](https://github.com/gutomelo/ecommerce-microservices) |
 | 🏦 Bank Project | Java 21, Spring Boot, Angular, Kafka, PostgreSQL, Docker | Microsserviços, DDD, Event-Driven Architecture, API Gateway, Observabilidade, Context Engineering e desenvolvimento assistido por IA | [Acessar](https://github.com/gutomelo/bank-project) |
+| 📦 OrderFlow | Python, Django, Vue.js, TypeScript, PostgreSQL, RabbitMQ, Celery | Monólito Modular, Transactional Outbox, Idempotência, Multi-tenant, concorrência, RBAC e Observabilidade | [Acessar](https://github.com/gutomelo/order-flow) |
 | 🧩 Mini E-Commerce | Spring Boot, NestJS, Go, Angular, Next.js, PostgreSQL, Redis | Arquitetura distribuída, múltiplas stacks, integração entre serviços e comunicação assíncrona | [Acessar](https://github.com/gutomelo/mini-e-commerce) |
 
 ## 🤖 IA + Engenharia de Software
