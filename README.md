@@ -1,4 +1,4 @@
-# Olá, sou Antonio Augusto, mais conhecido como Guto Melo 👋
+# Olá, sou Antônio Augusto (Guto Melo) 👋
 
 Sou Engenheiro de Software Full Stack, com foco em arquitetura de sistemas, desenvolvimento de aplicações web e construção de soluções escaláveis e bem estruturadas.
 
